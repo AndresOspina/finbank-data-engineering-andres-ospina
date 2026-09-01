@@ -1,0 +1,202 @@
+[
+  {
+    "cod_prod":"PROD001",
+    "desc_prod":"Producto financiero 1",
+    "tip_prod":"CREDITO_LIBRE_INVERSION",
+    "tasa_ea":34.4056,
+    "plazo_max_meses":60,
+    "cuota_min":241458.61,
+    "comision_admin":null,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD002",
+    "desc_prod":"Producto financiero 2",
+    "tip_prod":"CREDITO_ROTATIVO",
+    "tasa_ea":20.8326,
+    "plazo_max_meses":60,
+    "cuota_min":91281.74,
+    "comision_admin":28745.32,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD003",
+    "desc_prod":"Producto financiero 3",
+    "tip_prod":"TARJETA_DIGITAL",
+    "tasa_ea":24.378,
+    "plazo_max_meses":24,
+    "cuota_min":282228.37,
+    "comision_admin":38986.93,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD004",
+    "desc_prod":"Producto financiero 4",
+    "tip_prod":"CUENTA_AHORROS",
+    "tasa_ea":26.6264,
+    "plazo_max_meses":36,
+    "cuota_min":149748.07,
+    "comision_admin":35225.91,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD005",
+    "desc_prod":"Producto financiero 5",
+    "tip_prod":"PSE",
+    "tasa_ea":18.0824,
+    "plazo_max_meses":60,
+    "cuota_min":162871.54,
+    "comision_admin":16155.75,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD006",
+    "desc_prod":"Producto financiero 6",
+    "tip_prod":"TRANSFERENCIA_ACH",
+    "tasa_ea":9.7287,
+    "plazo_max_meses":12,
+    "cuota_min":197077.18,
+    "comision_admin":15355.16,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD007",
+    "desc_prod":"Producto financiero 7",
+    "tip_prod":"CREDITO_LIBRE_INVERSION",
+    "tasa_ea":13.9459,
+    "plazo_max_meses":12,
+    "cuota_min":226960.24,
+    "comision_admin":7649.32,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD008",
+    "desc_prod":"Producto financiero 8",
+    "tip_prod":"CREDITO_ROTATIVO",
+    "tasa_ea":9.8198,
+    "plazo_max_meses":12,
+    "cuota_min":264908.85,
+    "comision_admin":8188.58,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD009",
+    "desc_prod":"Producto financiero 9",
+    "tip_prod":"TARJETA_DIGITAL",
+    "tasa_ea":14.4261,
+    "plazo_max_meses":48,
+    "cuota_min":103559.2,
+    "comision_admin":10954.03,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD010",
+    "desc_prod":"Producto financiero 10",
+    "tip_prod":"CUENTA_AHORROS",
+    "tasa_ea":33.2589,
+    "plazo_max_meses":60,
+    "cuota_min":194052.91,
+    "comision_admin":15934.88,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD011",
+    "desc_prod":"Producto financiero 11",
+    "tip_prod":"PSE",
+    "tasa_ea":20.7703,
+    "plazo_max_meses":48,
+    "cuota_min":97602.48,
+    "comision_admin":9361.89,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD012",
+    "desc_prod":"Producto financiero 12",
+    "tip_prod":"TRANSFERENCIA_ACH",
+    "tasa_ea":19.6384,
+    "plazo_max_meses":48,
+    "cuota_min":152775.57,
+    "comision_admin":43872.65,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD013",
+    "desc_prod":"Producto financiero 13",
+    "tip_prod":"CREDITO_LIBRE_INVERSION",
+    "tasa_ea":9.4626,
+    "plazo_max_meses":12,
+    "cuota_min":65153.17,
+    "comision_admin":37769.61,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD014",
+    "desc_prod":"Producto financiero 14",
+    "tip_prod":"CREDITO_ROTATIVO",
+    "tasa_ea":29.616,
+    "plazo_max_meses":12,
+    "cuota_min":112164.08,
+    "comision_admin":13559.4,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD015",
+    "desc_prod":"Producto financiero 15",
+    "tip_prod":"TARJETA_DIGITAL",
+    "tasa_ea":20.1126,
+    "plazo_max_meses":48,
+    "cuota_min":95872.01,
+    "comision_admin":25818.26,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD016",
+    "desc_prod":"Producto financiero 16",
+    "tip_prod":"CUENTA_AHORROS",
+    "tasa_ea":31.6111,
+    "plazo_max_meses":12,
+    "cuota_min":160782.69,
+    "comision_admin":43760.71,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD017",
+    "desc_prod":"Producto financiero 17",
+    "tip_prod":"PSE",
+    "tasa_ea":22.8588,
+    "plazo_max_meses":12,
+    "cuota_min":213036.22,
+    "comision_admin":29326.46,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD018",
+    "desc_prod":"Producto financiero 18",
+    "tip_prod":"TRANSFERENCIA_ACH",
+    "tasa_ea":8.3985,
+    "plazo_max_meses":12,
+    "cuota_min":281591.75,
+    "comision_admin":43191.31,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD019",
+    "desc_prod":"Producto financiero 19",
+    "tip_prod":"CREDITO_LIBRE_INVERSION",
+    "tasa_ea":12.4904,
+    "plazo_max_meses":48,
+    "cuota_min":170339.6,
+    "comision_admin":43909.27,
+    "estado_prod":"ACTIVO"
+  },
+  {
+    "cod_prod":"PROD020",
+    "desc_prod":"Producto financiero 20",
+    "tip_prod":"CREDITO_ROTATIVO",
+    "tasa_ea":32.366,
+    "plazo_max_meses":24,
+    "cuota_min":144743.28,
+    "comision_admin":49338.9,
+    "estado_prod":"ACTIVO"
+  }
+]

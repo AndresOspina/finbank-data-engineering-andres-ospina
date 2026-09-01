@@ -1,0 +1,202 @@
+[
+  {
+    "cod_suc":"SUC001",
+    "nom_suc":"Punto FinBank 1",
+    "tip_punto":"CORRESPONSAL",
+    "ciudad":"Cali",
+    "depto":"Valle del Cauca",
+    "latitud":null,
+    "longitud":-74.213634,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC002",
+    "nom_suc":"Punto FinBank 2",
+    "tip_punto":"DIGITAL",
+    "ciudad":"Cartagena",
+    "depto":"Bolivar",
+    "latitud":8.7472662,
+    "longitud":-76.3808127,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC003",
+    "nom_suc":"Punto FinBank 3",
+    "tip_punto":"OFICINA",
+    "ciudad":"Cali",
+    "depto":"Valle del Cauca",
+    "latitud":10.7496749,
+    "longitud":-74.6832788,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC004",
+    "nom_suc":"Punto FinBank 4",
+    "tip_punto":"OFICINA",
+    "ciudad":"Cartagena",
+    "depto":"Bolivar",
+    "latitud":8.9838045,
+    "longitud":-76.7713389,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC005",
+    "nom_suc":"Punto FinBank 5",
+    "tip_punto":"CORRESPONSAL",
+    "ciudad":"Cartagena",
+    "depto":"Bolivar",
+    "latitud":7.0228031,
+    "longitud":-73.5891204,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC006",
+    "nom_suc":"Punto FinBank 6",
+    "tip_punto":"OFICINA",
+    "ciudad":"Bogota",
+    "depto":"Cundinamarca",
+    "latitud":10.6862312,
+    "longitud":-76.6795541,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC007",
+    "nom_suc":"Punto FinBank 7",
+    "tip_punto":"OFICINA",
+    "ciudad":"Bogota",
+    "depto":"Cundinamarca",
+    "latitud":7.7602809,
+    "longitud":-74.2991498,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC008",
+    "nom_suc":"Punto FinBank 8",
+    "tip_punto":"CORRESPONSAL",
+    "ciudad":"Bogota",
+    "depto":"Cundinamarca",
+    "latitud":3.9590929,
+    "longitud":-73.4388507,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC009",
+    "nom_suc":"Punto FinBank 9",
+    "tip_punto":"DIGITAL",
+    "ciudad":"Bogota",
+    "depto":"Cundinamarca",
+    "latitud":7.7561532,
+    "longitud":-74.522474,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC010",
+    "nom_suc":"Punto FinBank 10",
+    "tip_punto":"DIGITAL",
+    "ciudad":"Barranquilla",
+    "depto":"Atlantico",
+    "latitud":7.6693783,
+    "longitud":-74.9088691,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC011",
+    "nom_suc":"Punto FinBank 11",
+    "tip_punto":"OFICINA",
+    "ciudad":"Cali",
+    "depto":"Valle del Cauca",
+    "latitud":8.3578078,
+    "longitud":-75.7432645,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC012",
+    "nom_suc":"Punto FinBank 12",
+    "tip_punto":"CORRESPONSAL",
+    "ciudad":"Cali",
+    "depto":"Valle del Cauca",
+    "latitud":4.0470263,
+    "longitud":-74.4179968,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC013",
+    "nom_suc":"Punto FinBank 13",
+    "tip_punto":"CORRESPONSAL",
+    "ciudad":"Barranquilla",
+    "depto":"Atlantico",
+    "latitud":10.4321467,
+    "longitud":-73.2570629,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC014",
+    "nom_suc":"Punto FinBank 14",
+    "tip_punto":"CORRESPONSAL",
+    "ciudad":"Medellin",
+    "depto":"Antioquia",
+    "latitud":7.969274,
+    "longitud":-74.7480254,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC015",
+    "nom_suc":"Punto FinBank 15",
+    "tip_punto":"OFICINA",
+    "ciudad":"Medellin",
+    "depto":"Antioquia",
+    "latitud":7.3010752,
+    "longitud":-74.9764612,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC016",
+    "nom_suc":"Punto FinBank 16",
+    "tip_punto":"CORRESPONSAL",
+    "ciudad":"Bogota",
+    "depto":"Cundinamarca",
+    "latitud":10.0469134,
+    "longitud":-73.482919,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC017",
+    "nom_suc":"Punto FinBank 17",
+    "tip_punto":"CORRESPONSAL",
+    "ciudad":"Cali",
+    "depto":"Valle del Cauca",
+    "latitud":4.2619747,
+    "longitud":-73.6650202,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC018",
+    "nom_suc":"Punto FinBank 18",
+    "tip_punto":"DIGITAL",
+    "ciudad":"Cali",
+    "depto":"Valle del Cauca",
+    "latitud":10.8708265,
+    "longitud":-73.7716002,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC019",
+    "nom_suc":"Punto FinBank 19",
+    "tip_punto":"OFICINA",
+    "ciudad":"Cartagena",
+    "depto":"Bolivar",
+    "latitud":8.3429056,
+    "longitud":-74.7815909,
+    "activo":1
+  },
+  {
+    "cod_suc":"SUC020",
+    "nom_suc":"Punto FinBank 20",
+    "tip_punto":"OFICINA",
+    "ciudad":"Medellin",
+    "depto":"Antioquia",
+    "latitud":5.1157274,
+    "longitud":-73.4411492,
+    "activo":1
+  }
+]

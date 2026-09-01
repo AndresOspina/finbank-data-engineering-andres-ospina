@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+
+  "fecha_inicio": "2025-01-01",
+  "fecha_fin": "2026-08-27",
+
+  "volumenes": {
+    "TB_CLIENTES_CORE": 20,
+    "TB_PRODUCTOS_CAT": 20,
+    "TB_MOV_FINANCIEROS": 20,
+    "TB_OBLIGACIONES": 20,
+    "TB_SUCURSALES_RED": 20,
+    "TB_COMISIONES_LOG": 20,
+    "TB_INCENTIVOS": 20
+  },
+
+  "porcentaje_nulos": 0.05,
+
+  "anomalias": {
+    "movimiento_atipico": true,
+    "fecha_inconsistente_obligacion": true,
+    "duplicado_logico_movimiento": true
+  },
+
+  "formatos_salida": [
+    "csv",
+    "json"
+  ]
+}

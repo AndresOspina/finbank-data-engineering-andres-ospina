@@ -1,0 +1,21 @@
+﻿cod_suc,nom_suc,tip_punto,ciudad,depto,latitud,longitud,activo
+SUC001,Punto FinBank 1,CORRESPONSAL,Cali,Valle del Cauca,,-74.213634,1
+SUC002,Punto FinBank 2,DIGITAL,Cartagena,Bolivar,8.7472662,-76.3808127,1
+SUC003,Punto FinBank 3,OFICINA,Cali,Valle del Cauca,10.7496749,-74.6832788,1
+SUC004,Punto FinBank 4,OFICINA,Cartagena,Bolivar,8.9838045,-76.7713389,1
+SUC005,Punto FinBank 5,CORRESPONSAL,Cartagena,Bolivar,7.0228031,-73.5891204,1
+SUC006,Punto FinBank 6,OFICINA,Bogota,Cundinamarca,10.6862312,-76.6795541,1
+SUC007,Punto FinBank 7,OFICINA,Bogota,Cundinamarca,7.7602809,-74.2991498,1
+SUC008,Punto FinBank 8,CORRESPONSAL,Bogota,Cundinamarca,3.9590929,-73.4388507,1
+SUC009,Punto FinBank 9,DIGITAL,Bogota,Cundinamarca,7.7561532,-74.522474,1
+SUC010,Punto FinBank 10,DIGITAL,Barranquilla,Atlantico,7.6693783,-74.9088691,1
+SUC011,Punto FinBank 11,OFICINA,Cali,Valle del Cauca,8.3578078,-75.7432645,1
+SUC012,Punto FinBank 12,CORRESPONSAL,Cali,Valle del Cauca,4.0470263,-74.4179968,1
+SUC013,Punto FinBank 13,CORRESPONSAL,Barranquilla,Atlantico,10.4321467,-73.2570629,1
+SUC014,Punto FinBank 14,CORRESPONSAL,Medellin,Antioquia,7.969274,-74.7480254,1
+SUC015,Punto FinBank 15,OFICINA,Medellin,Antioquia,7.3010752,-74.9764612,1
+SUC016,Punto FinBank 16,CORRESPONSAL,Bogota,Cundinamarca,10.0469134,-73.482919,1
+SUC017,Punto FinBank 17,CORRESPONSAL,Cali,Valle del Cauca,4.2619747,-73.6650202,1
+SUC018,Punto FinBank 18,DIGITAL,Cali,Valle del Cauca,10.8708265,-73.7716002,1
+SUC019,Punto FinBank 19,OFICINA,Cartagena,Bolivar,8.3429056,-74.7815909,1
+SUC020,Punto FinBank 20,OFICINA,Medellin,Antioquia,5.1157274,-73.4411492,1
